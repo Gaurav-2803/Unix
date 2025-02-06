@@ -35,8 +35,37 @@
   - Example - `cat file.txt file1.txt`
 
 - For Example - `echo -n "Argument"`
-#### 
-`  `
+
+#### Kernel vs Shell
+- Kernel
+  - Core of the OS
+  - Allocates time & memory to processes 
+- Shell
+  - Outer layer of the OS
+  - Interacts with the user
+  - Send requests to the kernel
+  - Popular shells
+    - sh: Thompson shell
+    - sh: Bourne shell
+    - csh: C shell
+    - tcsh: Tab C shell
+    - ksh: Korn shell
+    - bash: Bourne-again shell
+    - zsh: Z shell
+    - fish: Friendly interactive shell
+
+- Location of shell
+  `echo $SHELL`
+
+- Current active shell
+  `echo $0`
+
+- Switch to different shell
+  `bash`, `ksh`, `tcsh`, `bash`
+
+- Get out of the shell
+  `exit`
+  
 
 #### 
 `  `
