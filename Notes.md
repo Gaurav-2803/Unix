@@ -66,9 +66,16 @@
 - Get out of the shell
   `exit`
   
+#### Unix text editors
+- ed: Edit text
+- vi: Visual editing mode
+- vim: vi Improved
+- emacs: Editor macros
+- pico: Pine Composer
+- nano: 1000x larger than pico
+
+*Type editor name to get into editor* 
+*Follwed by filename to open respective file in editor*
 
 #### 
-`  `
 
-#### 
-`  `
